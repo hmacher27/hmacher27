@@ -8,7 +8,7 @@ I'm a student at the University of Notre Dame studying **Applied and Computation
 - 🎓 Currently taking Introduction to Data Science, Agentic AI, Generative AI in the Wild, and Operations Research
 - 🌱 Learning Python, pandas, data visualization, and linear programming
 - 💼 Previously worked as a **Junior AI Engineer** at Patra Corporation and a **Digital Solutions Associate** at Connor Group
-- ✈️ Studied abroad in London, taking coursework in Ethical & Professional Issues in Engineering and the Science and Engineering of Digital Photography
+- 💂‍♂️ Studied abroad in London, taking coursework in Ethical & Professional Issues in Engineering and the Science and Engineering of Digital Photography
 - 📫 How to reach me: [hmacher@nd.edu]
 
 ### Technical Toolkit
@@ -23,6 +23,7 @@ I'm a student at the University of Notre Dame studying **Applied and Computation
 
 ### Interests
 
+- ✈️ Traveling to new countries
 - 🏐 Playing volleyball
 - 🚶 Going on walks
 - ☕ Grabbing coffee with friends

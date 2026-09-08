@@ -15,6 +15,9 @@ I'm a student at the University of Notre Dame studying **Applied and Computation
 
 `Python` `C/C++` `MATLAB` `Excel` `PowerPoint` `SolidWorks` `NetSuite` `Claude Code` `Claude Cowork`
 
+### Featured Project
+- **📊 [Data Science Portfolio](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)** — a collection of my data science projects
+
 ### Leadership & Involvement
 
 - 🦾 Member of **Enable ND**, helping build custom prosthetic hands for adult and pediatric patients around South Bend

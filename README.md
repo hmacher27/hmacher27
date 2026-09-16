@@ -18,6 +18,15 @@ I'm a student at the University of Notre Dame studying **Applied and Computation
 ### Featured Project
 - **📊 [Data Science Portfolio](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)** — a collection of my data science projects
 
+### Current Projects
+
+- **📚 State of the Field Research Project** (Generative AI in the Wild) — researching how generative AI is reshaping religious education and evangelization, exploring both opportunities and risks for faith communities integrating AI tools into formation and outreach.
+
+### Goals
+
+- 🐙 Become more comfortable using GitHub to showcase and organize my projects
+- 📢 Improve how I communicate data and results — translating technical work into insights that make sense for different audiences
+
 ### Leadership & Involvement
 
 - 🦾 Member of **Enable ND**, helping build custom prosthetic hands for adult and pediatric patients around South Bend
